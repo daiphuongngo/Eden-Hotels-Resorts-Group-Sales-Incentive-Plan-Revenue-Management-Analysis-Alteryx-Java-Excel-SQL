@@ -8,7 +8,7 @@ My mission is to create a Java program for the Director of Sales and Marketing o
 
 ## System Requirement:
 
-All of these requirements are created by me.
+These requirements are created by me and inspired by my recent Java project at Humber College, Toronto, ON, Canada and my previous work experience in the luxury hotel industry.
 
 The system must do the following:
 
