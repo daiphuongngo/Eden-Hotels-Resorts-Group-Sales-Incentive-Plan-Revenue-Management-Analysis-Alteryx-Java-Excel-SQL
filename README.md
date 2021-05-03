@@ -10,10 +10,11 @@ Your mission is to create a Java program for the Director of Sales and Marketing
 
 The system must do the following:
 
-1-	A warm welcoming message will show “Welcome in Eden Hotels & Resorts” when the program begins and ask the user to input the monthly target revenue for each Sales person in the S&M department
+### A-	A warm welcoming message will show “Welcome in Eden Hotels & Resorts” when the program begins and ask the user to input the monthly target revenue for each Sales person in the S&M department
 
 
-2-	The password must be asked to input satisfy the following rules:
+### B-	The password must be asked to input satisfy the following rules:
+
 •	Not be less than 12 characters.
 •	Contain at least 3 upper-case letter.
 •	Contain only 3 or 4 numbers.
@@ -24,13 +25,13 @@ The system must ask the user to enter new password if the password is incorrect 
 The system will continue if the password is correct.
 
 
-3-	After checking the password, the system must require the user to enter the number of Salesperson per property, the number must be between 1-15. If the number is incorrect, the system must ask the user to re-enter (a number between 1-15). The system must provide the user only five attempts. If exceeded, the program will stop.
+### C-	After checking the password, the system must require the user to enter the number of Salesperson per property, the number must be between 1-15. If the number is incorrect, the system must ask the user to re-enter (a number between 1-15). The system must provide the user only five attempts. If exceeded, the program will stop.
 
 
-4-	 After entering a valid number of Salespersons, the system must inform the user to enter the names of Salespersons.
+### D-	 After entering a valid number of Salespersons, the system must inform the user to enter the names of Salespersons.
 
 
-5-	Then, the system must announce the user to enter the revenues of the sales categories of each Salesperson as follows:
+### E-	Then, the system must announce the user to enter the revenues of the sales categories of each Salesperson as follows:
 
 a-	“Input your revenue in Banquet” = 2
 b-	“Input your revenue in Meeting” = 2
@@ -40,12 +41,12 @@ e-	“Input your mark in F&B” = 2
 f-   “Input your mark in Outside Catering” = 2
 
 
-6-	The system must calculate the Monthly Sales Revenue Ratio of each Salesperson based on the revenues that were entered in the previous step according to the following function:
+### F-	The system must calculate the Monthly Sales Revenue Ratio of each Salesperson based on the revenues that were entered in the previous step according to the following function:
 
 MSRR = (∑ (Revenue)/monthly target revenue)*100
 
 
-7-	The system must assign Salespersons to Incentive Scheme Levels based on the following matrix:
+### G-	The system must assign Salespersons to Incentive Scheme Levels based on the following matrix:
 
 Incentive Scheme Level III: MSRR >= 125 (%)
 Incentive Scheme Level II: 125> MSRR <=115 (%)
@@ -53,7 +54,7 @@ Incentive Scheme Level I: 115 > MSRR <=100 (%)
 No Incentive: MSRR <100 (%)
 
 
-8-	The system must be able to print the following:
+### H-	The system must be able to print the following:
 
 a-	Report 1: Salesperson Name, Incentive Scheme Level
 b-	Report 2: Number of Salespersons in Sales & Marketing department showing Salesperson distribution per each Incentive Scheme Level.
