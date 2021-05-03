@@ -16,8 +16,11 @@ The system must do the following:
 ### B-	The password must be asked to input satisfy the following rules:
 
 ####•	Not be less than 12 characters.
+
 ####•	Contain at least 3 upper-case letter.
+
 ####•	Contain only 3 or 4 numbers.
+
 ####•	Contain only 2 special characters.
 
 The system must ask the user to enter new password if the password is incorrect and allow the user only 3 attempts.
