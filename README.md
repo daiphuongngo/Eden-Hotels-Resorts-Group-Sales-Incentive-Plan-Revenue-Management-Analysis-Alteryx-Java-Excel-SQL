@@ -1,10 +1,10 @@
-# Project: Reporting Eden Hotels & Resorts' Sales Incentive Plan for the Sales & Marketing department
+# Project: Reporting a Hotels & Resorts Group' Sales Incentive Plan for the Sales & Marketing department
 
 
 
 ## Introduction:
 
-My mission is to create a Java program for the Director of Sales and Marketing of Eden Hotels & Resorts. The system must store information of each Salesperson and assign them to incentive scheme based on their gained revenue per month. The system must prompt the user to input each Salesperson’s name, revenues of the sales categories they completed each month. Then, the system must calculate their Monthly Sales Revenue Ratio and use to assign them to respective rewarded sales incentives.
+My mission is to create a Java program for the Director of Sales and Marketing of a Hotels & Resorts Group. The system must store information of each Salesperson and assign them to incentive scheme based on their gained revenue per month. The system must prompt the user to input each Salesperson’s name, revenues of the sales categories they completed each month. Then, the system must calculate their Monthly Sales Revenue Ratio and use to assign them to respective rewarded sales incentives.
 
 ## System Requirement:
 
