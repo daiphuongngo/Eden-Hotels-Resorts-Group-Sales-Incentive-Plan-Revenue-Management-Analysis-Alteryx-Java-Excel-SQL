@@ -1,6 +1,45 @@
-# Project: Reporting a Hotels & Resorts Group' Sales Incentive Plan for the Sales & Marketing department
+# Project: Eden Hotels & Resorts Group: Sales Incentive Plan (Java), Revenue Management (Excel), Database Design and Analysis (SQL)
 
 
+## Database Design and Analysis
+
+### Language: SQL
+
+## Introduction:
+
+Eden Hotel Group is a new player in the luxury hotel industry worldwide, based in Toronto, Canada. It has different brands in North America providing luxury 5-star accommodation, restaraunt's food and berage service and banquet catering. This new hotel group has been expanding further in Canada (reached 20 properties), the US (15), Mexico (8) and recently in West Europe, starting with City Hotels in Paris, France and Lausanne, Switzerland. Due to its growing brands, properties, employees, guests, customers and transactions, it requires a well-developed database to manage its business.
+
+
+### Tables of Database:
+
+Hotel_Brand: | ID | CITY_HOTEL_ID | EMPLOYEE_ID |
+
+City_Hotel: | CITY_HOTEL_ID | CITY_HOTEL_NAME | CITY_HOTEL_BRAND | CITY_HOTE_ADDRESS |
+
+Employee: | EMPLOYEE_ID | EMPLOYEE_NAME | DATE_OF_BIRTH | CITY_HOTEL_ID | TITLE | 
+
+Services: | SERVICE_ID | SERVICE_NAME | PRICE | SERVICE_TYPE | 
+
+Customer: | CUSTOMER_ID | CUSTOMER_NAME | CUSTOMER_DOB | CUSTOMER_COMPANY | CUSTOMER_CREDIT_CARD | CUSTOMER_ADDRESS | TRANSACTION_ID | CUSTOMER_BOOKING_ID |
+
+Guest: | GUEST_ID | GUEST_NAME | GUEST_DOB | GUEST_COMPANY | GUEST_CREDIT_CARD  | GUEST_ADDRESS | TRANSACTION_ID  | CUSTOMER_BOOKING_ID  |
+
+Supplier: | SUPPLIER_ID  | SUPPLIER_NAME | PURCHASE_ORDER  | PURCHASE_TYPE | 
+
+Orders: | ORDER_ID | SUPPLIER_ID | CUSTOMER_ID | PRODUCT_ID | PRIMARY KEY |
+
+### Tables of Content:
+
+- Creating tables
+
+- Inserting data into database
+
+- Querying for analysis
+
+
+## Reporting a Hotels & Resorts Group' Sales Incentive Plan for the Sales & Marketing department
+
+### Language: Java
 
 ## Introduction:
 
