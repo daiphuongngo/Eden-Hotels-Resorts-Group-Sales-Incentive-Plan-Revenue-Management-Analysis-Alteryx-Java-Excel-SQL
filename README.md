@@ -1,7 +1,7 @@
 # Project: Eden Hotels & Resorts Group: Sales Incentive Plan (Java), Revenue Management (Excel), Database Design and Analysis (SQL)
 
 
-## Database Design and Analysis
+## 1/ Database Design and Analysis
 
 ### Language: SQL
 
@@ -36,8 +36,13 @@ Orders: | ORDER_ID | SUPPLIER_ID | CUSTOMER_ID | PRODUCT_ID | PRIMARY KEY |
 
 - Querying for analysis
 
+## 2/ Eden Hotels & Resorts Group's Revenue Management:
 
-## Reporting a Hotels & Resorts Group' Sales Incentive Plan for the Sales & Marketing department
+### TooL: Excel
+
+
+
+## 3/ Reporting the Eden Hotels & Resorts Group' Sales Incentive Plan for the Sales & Marketing department
 
 ### Language: Java
 
