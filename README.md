@@ -38,7 +38,7 @@ Orders: | ORDER_ID | SUPPLIER_ID | CUSTOMER_ID | PRODUCT_ID | PRIMARY KEY |
 
 ## 2/ Eden Hotels & Resorts Group's Revenue Management:
 
-### TooL: Excel
+### Tool: Excel
 
 
 
