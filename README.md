@@ -12,21 +12,45 @@ Eden Hotel Group is a new player in the luxury hotel industry worldwide, based i
 
 ### Tables of Database:
 
-Hotel_Brand: | ID | CITY_HOTEL_ID | EMPLOYEE_ID |
+Hotel_Brand: 
 
-City_Hotel: | CITY_HOTEL_ID | CITY_HOTEL_NAME | CITY_HOTEL_BRAND | CITY_HOTE_ADDRESS |
+| ID | CITY_HOTEL_ID | EMPLOYEE_ID |
+|-|-|-|
 
-Employee: | EMPLOYEE_ID | EMPLOYEE_NAME | DATE_OF_BIRTH | CITY_HOTEL_ID | TITLE | 
+City_Hotel: 
 
-Services: | SERVICE_ID | SERVICE_NAME | PRICE | SERVICE_TYPE | 
+| CITY_HOTEL_ID | CITY_HOTEL_NAME | CITY_HOTEL_BRAND | CITY_HOTE_ADDRESS |
+|-|-|-|-|
 
-Customer: | CUSTOMER_ID | CUSTOMER_NAME | CUSTOMER_DOB | CUSTOMER_COMPANY | CUSTOMER_CREDIT_CARD | CUSTOMER_ADDRESS | TRANSACTION_ID | CUSTOMER_BOOKING_ID |
+Employee: 
 
-Guest: | GUEST_ID | GUEST_NAME | GUEST_DOB | GUEST_COMPANY | GUEST_CREDIT_CARD  | GUEST_ADDRESS | TRANSACTION_ID  | CUSTOMER_BOOKING_ID  |
+| EMPLOYEE_ID | EMPLOYEE_NAME | DATE_OF_BIRTH | CITY_HOTEL_ID | TITLE | 
+|-|-|-|-|-|
 
-Supplier: | SUPPLIER_ID  | SUPPLIER_NAME | PURCHASE_ORDER  | PURCHASE_TYPE | 
+Services: 
 
-Orders: | ORDER_ID | SUPPLIER_ID | CUSTOMER_ID | PRODUCT_ID | PRIMARY KEY |
+| SERVICE_ID | SERVICE_NAME | PRICE | SERVICE_TYPE | 
+|-|-|-|-|
+
+Customer: 
+
+| CUSTOMER_ID | CUSTOMER_NAME | CUSTOMER_DOB | CUSTOMER_COMPANY | CUSTOMER_CREDIT_CARD | CUSTOMER_ADDRESS | TRANSACTION_ID | CUSTOMER_BOOKING_ID |
+|-|-|-|-|-|-|-|-|
+
+Guest: 
+
+| GUEST_ID | GUEST_NAME | GUEST_DOB | GUEST_COMPANY | GUEST_CREDIT_CARD  | GUEST_ADDRESS | TRANSACTION_ID  | CUSTOMER_BOOKING_ID  |
+|-|-|-|-|-|-|-|-|
+
+Supplier: 
+
+| SUPPLIER_ID  | SUPPLIER_NAME | PURCHASE_ORDER  | PURCHASE_TYPE | 
+|-|-|-|-|
+
+Orders: 
+
+| ORDER_ID | SUPPLIER_ID | CUSTOMER_ID | PRODUCT_ID | PRIMARY KEY |
+|-|-|-|-|-|
 
 ### Tables of Content:
 
@@ -40,7 +64,31 @@ Orders: | ORDER_ID | SUPPLIER_ID | CUSTOMER_ID | PRODUCT_ID | PRIMARY KEY |
 
 ### Tool: Excel
 
+### Table of Contents:
 
+1. Calculating KPIs by Revenues
+
+2. Calculating KPIs by Segments
+
+3. Calculating Monthly and Year-to-Date KPIs by Segments
+
+4. Aggregate data from other sheets to have a Pivot table
+
+5. Calculate Inventory, Room Night, Occupancy, Average Daily Rate, Room Revenue, Room Revenue Per Available Room
+
+6. Create reports from Pivot tables
+
+7. Draw charts
+
+8. Conditional Formatting
+
+9. Daily Pickup Report
+
+10. Booking Window (Lead Time) Analysis & Visualization
+
+11. Booking Pace and Booking Curve Analysis & Visualization
+
+12. Final Reports of 3 Eden Hotels
 
 ## 3/ Reporting the Eden Hotels & Resorts Group' Sales Incentive Plan for the Sales & Marketing department
 
