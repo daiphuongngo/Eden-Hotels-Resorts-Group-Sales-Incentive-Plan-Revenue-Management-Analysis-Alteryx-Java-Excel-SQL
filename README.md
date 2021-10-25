@@ -1,5 +1,17 @@
 # Project: Eden Hotels & Resorts Group: Sales Incentive Plan (Java), Revenue Management (Excel), Database Design and Analysis (SQL)
 
+## Category:
+
+- Hotel
+
+- Resort
+
+- Revenue
+
+- Hospitality
+
+- Travel
+
 
 ## 1/ Database Design and Analysis
 
