@@ -1,4 +1,4 @@
-# Project: Eden Hotels & Resorts Group: Sales Incentive Plan (Java), Revenue Management (Excel), Database Design and Analysis (SQL)
+# Project: Eden Hotels & Resorts Group: Sales Incentive Plan (Java), Revenue Management (Alteryx & Excel), Database Design and Analysis (SQL)
 
 ## Category:
 
@@ -14,7 +14,7 @@
 
 ## 1/ Eden Hotels & Resorts Group's Revenue Management:
 
-### Tool: Excel
+### Tools: Alteryx & Excel
 
 ### Table of Contents:
 
