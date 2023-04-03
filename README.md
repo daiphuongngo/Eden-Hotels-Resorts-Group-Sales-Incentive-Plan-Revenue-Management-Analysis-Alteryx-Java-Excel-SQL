@@ -16,7 +16,9 @@
 
 ### A. Tools: Alteryx
 
-1. Overview
+#### BG10
+
+1. Overview 
 <img width="1274" alt="BG10 - 1 overview" src="https://user-images.githubusercontent.com/70437668/229400903-763a7690-484f-4ee1-b523-f651db0e1b65.png">
 
 2. Creating Days Before Arrival
@@ -56,6 +58,37 @@
 <img width="1270" alt="BG10 - 9 Formula" src="https://user-images.githubusercontent.com/70437668/229401362-776a1013-1f21-4b06-bda5-bd342596276f.png">
 
 <img width="1273" alt="BG10 - 10 final" src="https://user-images.githubusercontent.com/70437668/229401377-662a4716-1326-4820-ab75-c210a74ce4e5.png">
+
+#### BG11
+
+1. Overview
+
+<img width="1274" alt="Bg11 - 1 Overview" src="https://user-images.githubusercontent.com/70437668/229403465-ad8239e7-07cb-4089-ae72-897e8b3048a0.png">
+
+2. Creating DBA
+
+<img width="1271" alt="BG11 - 2 DBA" src="https://user-images.githubusercontent.com/70437668/229403478-973f8bf9-d571-4dd9-a80a-4709e9c0b8a8.png">
+
+3. Creating DBA Groups and DBA Groups Order
+
+<img width="1270" alt="BG11 - 3 DBA Groups and DBA Groups Order" src="https://user-images.githubusercontent.com/70437668/229403522-2c8ae0cc-d6fd-4f05-a32a-d87dd32b634b.png">
+
+4. Group by DBA Groups 
+
+<img width="1271" alt="BG11 - 4 Group by DBA Groups" src="https://user-images.githubusercontent.com/70437668/229403547-55e81134-6d6e-42be-a588-b0b57f21cf74.png">
+
+<img width="1271" alt="BG11 - 4 Group by DBA Groups Result" src="https://user-images.githubusercontent.com/70437668/229403554-a22cab79-b516-462f-9516-eb75367713f4.png">
+
+5. Multi Row Formula for RN ROH PU and RN OTB PU
+
+<img width="1272" alt="BG11 - 5 Multi Row Formula ROH PU" src="https://user-images.githubusercontent.com/70437668/229403601-6ddb7a4e-e965-4ad8-9a18-f2da7345d69e.png">
+
+<img width="1270" alt="BG11 - 5 Multi Row Formula RN OTB PU" src="https://user-images.githubusercontent.com/70437668/229403608-39b8dc0e-e15c-4a92-a95a-39375f4ac627.png">
+
+6. Final result
+
+<img width="1273" alt="BG11 - 6 final" src="https://user-images.githubusercontent.com/70437668/229403630-c52c5c25-2f8c-4a85-a667-8146a83bb350.png">
+
 
 
 
