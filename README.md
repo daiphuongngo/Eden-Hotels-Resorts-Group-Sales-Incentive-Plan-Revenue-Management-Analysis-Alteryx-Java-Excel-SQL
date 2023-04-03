@@ -14,7 +14,52 @@
 
 ## 1/ Eden Hotels & Resorts Group's Revenue Management:
 
-### Tools: Alteryx & Excel
+### A. Tools: Alteryx
+
+1. Overview
+<img width="1274" alt="BG10 - 1 overview" src="https://user-images.githubusercontent.com/70437668/229400903-763a7690-484f-4ee1-b523-f651db0e1b65.png">
+
+2. Creating Days Before Arrival
+
+![BG10 - 2 DBA result](https://user-images.githubusercontent.com/70437668/229400919-e46df6b7-1a73-4d29-b1d0-d0198df4e45d.png)
+
+3. Creating Days Before Arrival Groups
+
+<img width="1271" alt="BG10 - 2 DBA " src="https://user-images.githubusercontent.com/70437668/229401016-5cadc738-4539-4029-b93b-104290370672.png">
+
+<img width="1272" alt="BG10 - 3 DBA Groups result" src="https://user-images.githubusercontent.com/70437668/229401029-5f85b7f7-0443-4c1e-8441-f647322cdd0d.png">
+
+4. Summarizing by DBA Groups
+
+<img width="1272" alt="BG10 - 4 Summarize" src="https://user-images.githubusercontent.com/70437668/229401106-a79c4eaf-f512-4994-91d7-14fa3d50f4de.png">
+
+5. Calculating ROH, % ROH, RN OTB, % RN OTB
+
+<img width="1271" alt="BG10 - 5 Formula" src="https://user-images.githubusercontent.com/70437668/229401118-1359fe66-6d3c-4a75-b626-7bd6b15fb530.png">
+
+<img width="1274" alt="BG10 - 6 Formula result" src="https://user-images.githubusercontent.com/70437668/229401197-a0b4bc1f-a25b-4f59-b80c-dcbdf3e1d05c.png">
+
+6. Calculating Total ROH, Total RN OTB
+
+<img width="1270" alt="BG10 - 7 Formula" src="https://user-images.githubusercontent.com/70437668/229401243-571bf622-6b57-4bbe-9e5f-1aecd56cf13a.png">
+
+<img width="1270" alt="BG10 - 7 Formula result" src="https://user-images.githubusercontent.com/70437668/229401232-afe03c0e-7b5b-4e84-b98c-fe5ae7918c5a.png">
+
+7. Union
+
+<img width="1271" alt="BG10 - 8 Union" src="https://user-images.githubusercontent.com/70437668/229401324-a3fd9a54-ab47-4601-b371-b9606cb63e50.png">
+
+<img width="1274" alt="BG10 - 8 Union res" src="https://user-images.githubusercontent.com/70437668/229401313-0be4a1ea-ff0f-4cb7-b9d9-c47bb6f72d02.png">
+
+8. Final Touch
+
+<img width="1270" alt="BG10 - 9 Formula" src="https://user-images.githubusercontent.com/70437668/229401362-776a1013-1f21-4b06-bda5-bd342596276f.png">
+
+<img width="1273" alt="BG10 - 10 final" src="https://user-images.githubusercontent.com/70437668/229401377-662a4716-1326-4820-ab75-c210a74ce4e5.png">
+
+
+
+### B. Tools: Excel
 
 ### Table of Contents:
 
